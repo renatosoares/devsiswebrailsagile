@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"titulo	(produto.rb)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"list",
+				"list_image"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wi",
+				"width	(scaffolds.scss)"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"ele",
+				"elementoHash	(say_controller.rb)"
+			],
+			[
+				"n",
+				"now	(hello.html.erb)"
+			],
+			[
+				"for",
+				"for	for loop in rhtml"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"imagem",
+				"imagemUpload"
+			],
+			[
+				"ima",
+				"imagem"
+			],
+			[
+				"cmd",
+				"cmdDBparametro"
+			],
+			[
+				"cmdDB",
+				"cmdDBparametro"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"comandos",
+				"comandosSQL"
+			],
+			[
+				"ad",
+				"administraControla"
+			],
+			[
+				"Al",
+				"Algoritmo_B"
+			],
+			[
+				"Algori",
+				"Algoritmo_A"
+			],
+			[
+				"A",
+				"Algoritmo"
+			],
+			[
+				"remo",
+				"removerDuplicados"
+			],
+			[
+				"dado",
+				"dado"
+			],
+			[
+				"em",
+				"em_curso"
+			],
+			[
+				"List",
+				"ListaDuplaDado"
+			],
+			[
+				"ins",
+				"ins_antes"
+			],
+			[
+				"in",
+				"ins_antes"
+			],
+			[
+				"lis",
+				"ListaDuplaDado"
+			],
+			[
+				"Lista",
+				"ListaDupla"
+			],
+			[
+				"inse",
+				"inserirOrdenado"
+			],
+			[
+				"Lis",
+				"ListaDupla"
+			],
+			[
+				"L",
+				"ListaDuplaDado"
+			],
+			[
+				"inser",
+				"insercao_em_uma_lista_vazia"
+			],
+			[
+				"inici",
+				"inicializacao"
+			],
+			[
+				"novo",
+				"novo_elemento"
+			],
+			[
+				"MOS",
+				"mostraNumeros"
+			],
+			[
+				"Mos",
+				"MostrarFatoresPrimos"
+			],
+			[
+				"inc",
+				"incrementa"
+			],
+			[
+				"maior",
+				"maior"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/store/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/store_controller.rb",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "-aspectos estáticos",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Unix",
+				"name": "-aspectos estáticos"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/renato/rubydevacademia/seguindolivro/app/controllers/produtos_controller.rb",
+		"/home/renato/rubydevacademia/seguindolivro/app/models/produto.rb",
+		"/home/renato/rubydevacademia/seguindolivro/db/migrate/20150617171308_create_produtos.rb",
+		"/home/renato/rubydevacademia/seguindolivro/test/models/produto_test.rb",
+		"/home/renato/rubydevacademia/seguindolivro/config/routes.rb",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/produtos/show.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/produtos/index.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/store/index.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/app/controllers/store_controller.rb",
+		"/home/renato/rubydevacademia/seguindolivro/test/controllers/produtos_controller_test.rb",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/layouts/application.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/.gitignore",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/application.css",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/produtos.scss",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/produtos.css",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/application.scss",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/say.scss",
+		"/home/renato/rubydevacademia/seguindolivro/app/assets/stylesheets/scaffolds.scss",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/say/goodbye.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/app/views/say/hello.html.erb",
+		"/home/renato/rubydevacademia/seguindolivro/config/database.yml",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/index.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/css/font-awesome.min.css",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/detalhes.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/template/bootstrap-social-icons/index.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/css/style.css",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/PDS---Eu_Vou/js/jssor.slider.mini.js",
+		"/home/renato/rubydevacademia/aula0611/aulatest/app/controllers/application_controller.rb",
+		"/home/renato/rubydevacademia/teste0609/meuapp/config/secrets.yml",
+		"/home/renato/rubydevacademia/teste0609/meuapp/config/database.yml",
+		"/home/renato/Dropbox/TADS/3semestre/estruturaDados/exercicios/README.md",
+		"/home/renato/Dropbox/TADS/3semestre/estruturaDados/exercicios/pilha.asm",
+		"/home/renato/rubydevacademia/apprubyonrails/app/apptest.sublime-project",
+		"/home/renato/rubydevacademia/myapptestok/test/test_helper.rb",
+		"/home/renato/rubydevacademia/myapptestok/app/views/index.html.erb",
+		"/home/renato/rubydevacademia/myapptestok/config/environments/test.rb",
+		"/home/renato/rubydevacademia/myapptestok/config/routes.rb",
+		"/home/renato/rubydevacademia/myapptestok/index.html",
+		"/home/renato/rubydevacademia/myapptestok/app/views/layouts/application.html.erb",
+		"/home/renato/rubydevacademia/myapptestok/app/controllers/application_controller.rb",
+		"/home/renato/Documentos/your.rb",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/03array/array02.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/04matriz/README.md",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/03array/array07.asm",
+		"/home/renato/Dropbox/TADS/3semestre/estruturaDados/4482.pilha.c",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/game_breakout/breakout.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/03array/array06.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/03array/array03.asm",
+		"/home/renato/historiaTerminal",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/README.md",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/css/styles.css",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/css/bootstrap.min.css",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/index.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/carousel/examples-bootstrap/bootstrap-carousel.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/carousel/examples-bootstrap/bootstrap-slider.html",
+		"/home/renato/Dropbox/TADS/3semestre/SemOrientaProjetoDevSisWeb/interface/.gitignore",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/04matriz/mips4.asm",
+		"/home/renato/workspace/ServletExemplo/src/exemplo01/ExemploClass01.java",
+		"/home/renato/Documentos/htdocs/photoboxzero/config.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/classes/class-MainController.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/classes/class-PhotoboxDB.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/classes/class-MainModel.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/controllers/home-controller.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/classes/class-PhotoboxMVC.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/_utilitarios/ex/remove_imagem.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_includes/head.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_css/bootstrap.css",
+		"/home/renato/Documentos/htdocs/photoboxzero/functions/global-functions.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_css/custom.css",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_css/bootstrap.min.css",
+		"/home/renato/Documentos/htdocs/photoboxzero/_utilitarios/ex/administra_imagem.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/_utilitarios/ex/administra.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/administra.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/utilitarios/db_data_source.sql",
+		"/home/renato/Documentos/htdocs/photoboxzero/controllers/create_image_controller.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/models/create_image_model.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/models/mensagens_txt_model.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/models/comandosDB_model.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/index.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/loader.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/home/home-view.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_includes/header-menu.php",
+		"/home/renato/Documentos/htdocs/photoboxzero/views/_includes/header_menu.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/controllers/exemplo-controller.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/classes/class-MainModel.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/views/noticias/noticias-adm-view.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/views/noticias/noticias-view.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/models/noticias/noticias-adm-model.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/controllers/noticias-controller.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/views/_includes/menu.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/config.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/classes/class-MainController.php",
+		"/home/renato/Dropbox/dev/backup_localhost/phpMVC/crud/controllers/home-controller.php",
+		"/home/renato/Área de Trabalho/test.c",
+		"/home/renato/Área de Trabalho/fatorial_recursivo.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/exercicios/lista12/lista_ordenada.c",
+		"/home/renato/Área de Trabalho/fatorial.c",
+		"/home/renato/Downloads/5148.fatorial.c",
+		"/home/renato/Área de Trabalho/teste.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/exercicios/1502_02_algoritmos_analise/q06_01.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/listaDupLigada.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/main.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ligada_numeros/lista_numeros.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ligada_numeros/lista_numeros.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/dlista_function.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/dlista.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/dlista.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_duplamente_ligada/viva_linux_listadupla.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ligada_numeros/main.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ordenada/lista_ordenada.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ordenada/lista_ordenada.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/c_git/lista_ordenada/main.c",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/jogos_exemplos/arkamips-master/syscall.s",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/jogos_exemplos/arkamips-master/README.md",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/exemplos/manipular_pixel.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/04matriz/questaoM01.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/04matriz/questaoM03.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/jogos_exemplos/arkamips-master/arkamips.s",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/exercicio/04matriz/questaoM02.asm",
+		"/home/renato/Dropbox/TADS/2semestre/arquiterura_computadores/jogos_exemplos/arkamips-master/arkamips.asm",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ligada_numeros/lista_numeros.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ligada_numeros/lista_numeros.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ligada_numeros/main.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ordenada/lista_ordenada.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ordenada/lista_ordenada.h",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/lista_ordenada/main.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/exercicios/1501_20_desempenho/ativ_08.c",
+		"/home/renato/Dropbox/TADS/2semestre/algoritimos/codigo/lista-ligada-master/questao_3/main.c"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/renato/rubydevacademia/myapptestok",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"product",
+			"Product",
+			"product",
+			"price",
+			"description",
+			"title",
+			"Comment",
+			"email",
+			"collapseExample",
+			"Example",
+			"icone-evento-indexlist",
+			"azm-size-48_indexList",
+			"azm-size-48",
+			"list-group",
+			"height",
+			"width",
+			"Heigth",
+			"db",
+			"\"",
+			"teste",
+			"image",
+			"src2",
+			".container-fluid",
+			"slider1_container",
+			"slider1",
+			"slider1_con",
+			"slide1_con",
+			"js/",
+			"img/",
+			"btn-de",
+			"label",
+			"time",
+			"cloc",
+			"fonts",
+			"font",
+			"post",
+			"        <p class=\"pull-right\"><span class=\"label label-default\">acessibilidade</span> <span class=\"label label-default\">estacionamento</span> <span class=\"label label-default\">post</span></p>",
+			"post",
+			"tag",
+			"keyword",
+			"Ago",
+			"Days",
+			"Read More",
+			"Comments",
+			"Shares",
+			".css",
+			"imagem",
+			"<",
+			"cmdbanco",
+			"cmdDB",
+			"comandosSQL",
+			"td",
+			"tr",
+			"table",
+			"img-circle",
+			"conexaoDB",
+			"'",
+			"cmdDB",
+			"creImg",
+			"ComandosSQL",
+			"comandosSQL",
+			"include",
+			"require",
+			"adm_uri",
+			"valor",
+			"Algoritmo",
+			"escolhido",
+			"em_curso",
+			"Dado",
+			"seguinte",
+			"início",
+			"em curso",
+			"seguinte",
+			"em curso",
+			"inserirOrdenado",
+			"ins_inicio_lista",
+			"seguinte",
+			"dl_elemento",
+			"exibe_inv",
+			"ListaDuplaNo",
+			"brea",
+			"break",
+			"values",
+			"get",
+			"ListaNumero",
+			"inicio",
+			",",
+			"5",
+			"4",
+			"7",
+			"18",
+			"2",
+			",",
+			"7",
+			"35",
+			"67",
+			"33",
+			"26",
+			"28",
+			"64",
+			"68",
+			"137",
+			"126",
+			"143",
+			",",
+			"39",
+			"48",
+			"46",
+			"45",
+			"41",
+			"56",
+			"89",
+			"@",
+			"89",
+			"137",
+			"166",
+			"133",
+			"167",
+			"165",
+			"135",
+			"169",
+			"170",
+			"64",
+			",",
+			"4#",
+			"4",
+			",",
+			"9"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"@",
+			".",
+			"p",
+			"#",
+			"=",
+			"",
+			".",
+			"+",
+			"?",
+			"!",
+			"@",
+			"#",
+			"p",
+			"$",
+			"*",
+			"%",
+			"&",
+			"",
+			"?",
+			"t",
+			"r",
+			"e",
+			"w",
+			"q",
+			"@",
+			".",
+			":",
+			"=",
+			"+",
+			"*",
+			"&",
+			"%",
+			"$",
+			"#",
+			"@",
+			"p",
+			"",
+			"A",
+			"",
+			"J",
+			"P",
+			"",
+			"P",
+			"\\,",
+			"I",
+			"",
+			"E",
+			"D",
+			"#,",
+			".,",
+			"+,",
+			"*,",
+			"B,",
+			"G,",
+			"V,",
+			"R,",
+			"h,",
+			"n,",
+			"?,",
+			"w,",
+			"q,",
+			"ç,",
+			"c,",
+			"z,",
+			"g,",
+			"m,",
+			"t,",
+			"k,",
+			"y,",
+			"&,",
+			"%,",
+			"@,",
+			"$,",
+			"#,",
+			"p,",
+			"i,",
+			"e,",
+			"a,",
+			"u,",
+			"o,",
+			"u,",
+			"$,",
+			".,",
+			"#,",
+			"p,",
+			".",
+			"$",
+			"u",
+			"p",
+			"",
+			"#",
+			".",
+			"p",
+			"p\n",
+			"128,128,128,128,128,128,128,128,128,128,\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/store/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "app/controllers/store_controller.rb",
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-aspectos estáticos",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.486485178398,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 451.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}

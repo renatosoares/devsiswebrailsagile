@@ -1,0 +1,26 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Titulo:</strong>
+  <%= @produto.titulo %>
+</p>
+
+<p>
+  <strong>Descricao:</strong>
+  <%= @produto.descricao %>
+</p>
+
+<p class="row">
+  <strong class="col-md-12">Image:</strong>
+  
+  <img class="col-md-6" src="<%= @produto.url_image %>" alt="">
+  <div class="col-md-6">&nbsp;</div>
+</p>
+
+<p>
+  <strong>Preco:</strong>
+  <%= @produto.preco %>
+</p>
+
+<%= link_to 'Edit', edit_produto_path(@produto) %> |
+<%= link_to 'Back', produtos_path %>
