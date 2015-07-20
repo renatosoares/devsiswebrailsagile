@@ -1,19 +1,19 @@
 <% if notice %>
 	<p id="notice"><%= notice %></p>
 <% end %>
-<h1>Seu Catalogo Pragmático</h1>
+<h1>Your Pragmatic Catalog</h1>
 <% cache ['store', Produto.latest] do %>
 	<% @produtos.each do |produto| %>
 		<% cache ['entry', produto] do %>
-		<div class="entry">
-			<%= image_tag(produto.url_image) %>
-			<h3><%= produto.titulo %></h3>
-			<%= sanitize(produto.descricao) %>
-			<div class="price_line">
-				<!-- <span class="price"><%= sprintf("R$ %0.02f", produto.preco) %></span> -->
-				<span class="price"><%= number_to_currency(produto.preco) %></span>
+			<div class="entry">
+				<%= image_tag(produto.url_image) %>
+				<h3><%= produto.titulo %></h3>
+				<%= sanitize(produto.descricao) %>
+				<div class="price_line">
+					<span class="price"><%= number_to_currency(produto.preco) %></span>
+					<%= button_to 'Add to Cart', line_items_path(produto_id: produto) %>
+				</div>
 			</div>
-		</div>
 		<% end %>
 	<% end %>
 <% end %>
